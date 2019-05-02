@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/out.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/predict_0.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/problemDataSet/C++Problem.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sep_words_result/testOut.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sep_words_result/testOut.txt" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/sep_words_result/testOut.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stopList/StopList.txt" charset="UTF-8" />
+  </component>
+</project>

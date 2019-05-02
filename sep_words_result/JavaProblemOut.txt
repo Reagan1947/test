@@ -1,0 +1,209 @@
+﻿ JDK     JRE   区别 
+    equals   区别 
+两个 对象   hashCode 相同   equals 一定   true 
+final     Java   中有 作用 
+Java   中   Math round 1.5   等于 
+String   属于 基础 数据类型 
+Java   中 操作 字符串 类 之间 区别 
+String   str i   String   str new   String i 
+字符串 反转 
+String   类 常用 方法 
+抽象类 抽象 方法 
+普通 类 抽象类 区别 
+抽象类 使用   final   修饰 
+接口 抽象类 区别 
+Java   中   IO   流 分为 几种 
+BIO NIO AIO   区别 
+Files 常用 方法 
+Java   容器 
+Collection     Collections   区别 
+List Set Map   之间 区别 
+HashMap     Hashtable   区别 
+决定 使用   HashMap     TreeMap 
+说 一下   HashMap   实现 原理 
+说 一下   HashSet   实现 原理 
+ArrayList     LinkedList   区别 
+实现 数组   List   之间 转换 
+ArrayList     Vector   区别 
+Array     ArrayList   有何 区别 
+  Queue   中   poll   remove 区别 
+集合 类 线程 安全 
+迭代 器   Iterator   
+Iterator   使用 特点 
+Iterator     ListIterator   区别 
+确保 一个 集合 修改 
+并行 并发 区别 
+线程 进程 区别 
+守护 线程 
+创建 线程 哪几种 方式 
+说 一下   runnable     callable   区别 
+线程 状态 
+sleep     wait   区别 
+notify   notifyAll 区别 
+线程   run   start 区别 
+创建 线程 池有 哪几种 方式 
+线程 池 状态 
+线程 池中   submit   execute 方法 区别 
+  Java   程序 中 保证 多线程 运行 安全 
+多线程 锁 升级 原理 
+死锁 
+防止 死锁 
+ThreadLocal   使用 场景 
+说 一下   Synchronized   底层 实现 原理 
+Synchronized     volatile   区别 
+Synchronized     Lock   区别 
+Synchronized     ReentrantLock   区别 
+说 一下   Atomic   原理 
+反射 
+  Java   序列化 情况 下 需要 序列化 
+动态 代理 应用 
+实现 动态 代理 
+使用 克隆 
+实现 对象 克隆 
+深 拷贝 浅 拷贝 区别 
+JSP     servlet   区别 
+JSP   内置 对象 作用 分别 
+说 一下   JSP     4   种 作用域 
+Session     Cookie   区别 
+说 一下   Session   工作 原理 
+客户端 禁止   Cookie   实现   Session   
+Spring   MVC     Struts   区别 
+避免   SQL   注入 
+  XSS   攻击 避免 
+  CSRF   攻击 避免 
+throw     throws   区别 
+final finally finalize   区别 
+try catch finally   中 部分 省略 
+try catch finally   中   catch   中   return   finally   还会 执行 
+常见 异常 类有 
+HTTP   响应 码   301     302   代表 区别 
+forward     redirect   区别 
+简述   TCP     UDP   区别 
+TCP   三次 握手 两次 不行 
+说 一下   TCP   粘包 产生 
+OSI   七层 模型 
+Get   Post   请求 区别 
+实现 跨域 
+说 一下   JSONP   实现 原理 
+说 一下 熟悉 设计模式 
+简单 工厂 抽象 工厂 区别 
+使用   Spring 
+解释一下   AOP 
+解释一下   IOC 
+Spring   主要 模块 
+Spring   常用 注入 方式 
+Spring   中   Bean   线程 安全 
+Spring   支持 几种   Bean   作用域 
+Spring   自动 装配   Bean   方式 
+Spring   事务 实现 方式 
+说 一下   Spring   事务 隔离 
+说 一下   Spring   MVC   运行 流程 
+Spring   MVC   组件 
+RequestMapping   作用 
+Autowired   作用 
+  Spring   Boot 
+  Spring   Boot 
+Spring   Boot   核心 配置文件 
+Spring   Boot   配置文件 哪几种 类型 区别 
+Spring   Boot   方式 实现 热 部署 
+JPA     Hibernate   区别 
+  Spring   Cloud 
+Spring   Cloud   断路器 作用 
+Spring   Cloud   核心 组件 
+使用   Hibernate 
+  ORM   框架 
+Hibernate   中 控制台 查看 打印   SQL   语句 
+Hibernate   几种 查询 方式 
+Hibernate   实体类 定义   final   
+  Hibernate   中 使用   Integer     int   做 映射 区别 
+Hibernate   工作 
+get   load 区别 
+说 一下   Hibernate   缓存 机制 
+Hibernate   对象 状态 
+  Hibernate   中   getCurrentSession     openSession   区别 
+Hibernate   实体类 有无 参 构造函数 
+Mybatis   中   { }   { } 区别 
+Mybatis   几种 分页 方式 
+RowBounds   一次性 查询 全部 
+Mybatis   逻辑 分页 物理 分页 区别 
+Mybatis   是否 支持 延迟 加载 延迟 加载 原理 
+说 一下   Mybatis   一级 缓存 二级缓存 
+Mybatis     Hibernate   区别 
+Mybatis   执行器 Executor 
+Mybatis   分页 插件 实现 原理 
+Mybatis   编写 一个 自定义 插件 
+RabbitMQ   使用 场景 
+RabbitMQ   重要 角色 
+RabbitMQ   重要 组件 
+RabbitMQ   中   VHost   作用 
+RabbitMQ   消息 发送 
+RabbitMQ   保证 消息 稳定性 
+RabbitMQ   避免 消息 丢失 
+保证 消息 持久 化 成功 条件 
+RabbitMQ   持久 化有 特点 
+RabbitMQ   几种 广播 类型 
+RabbitMQ   实现 延迟 消息 队列 
+RabbitMQ   集群 
+RabbitMQ   节点 类型 
+RabbitMQ   集群 搭建 需要 注意 问题 
+RabbitMQ   每个 节点 节点 完整 拷贝 
+RabbitMQ   集群 中 唯一 一个 磁盘 节点 崩溃 发生 情况 
+RabbitMQ   集群 节点 停止 顺序 要求 
+Kafka   脱离   ZooKeeper   单独 使用 
+Kafka   几种 数据 保留 策略 
+Kafka   设置   7   天   10G   清除 数据 第五天 消息 达到   10G   Kafka   处理 
+情况 导致   Kafka   运行 变慢 
+使用   Kafka   集群 需要 注意 
+ZooKeeper   
+ZooKeeper   功能 
+ZooKeeper   几种 部署 模式 
+ZooKeeper   保证 主从 节点 状态 同步 
+集群 中 有主 节点 
+集群 中有   3   台 服务器 一个 节点 宕机   ZooKeeper   使用 
+说 一下   ZooKeeper     通知 机制 
+数据库 范式 
+一张 自增表 里面 总共   7   条 数据 删除 最后   2   条 数据 重启   MySQL   数据库 插入 一条 数据 此时   ID   
+获取 当前 数据库 版本 
+说 一下   ACID   
+Char     VarChar   区别 
+Float     Double   区别 
+MySQL   连接 左 连接 右 连接 区别 
+MySQL 索引 实现 
+验证   MySQL 索引 是否 满足 需求 
+说 一下 数据库 事务 隔离 
+说 一下   MySQL 常用 引擎 
+说 一下   MySQL 行锁 表锁 
+说 一下 乐观 锁 悲观 锁 
+MySQL 问题 排查 手段 
+做   MySQL 性能 优化 
+Redis   使用 场景 
+Redis   功能 
+Redis     MemeCache   区别 
+Redis   单线程 
+缓存 穿透 解决 
+Redis   支持 数据类型 
+Redis   支持   Java   客户端 
+Jedis     Redisson   区别 
+保证 缓存 数据库 数据 一致性 
+Redis   持久 化有 几种 方式 
+Redis   实现 分布式 锁 
+Redis   分布式 锁 缺陷 
+Redis   做 内存 优化 
+Redis   淘汰 策略 
+Redis   常见 性能 问题 解决 
+说 一下   JVM   主要 组成部分 作用 
+说 一下   JVM   运行 时 数据 区 
+说 一下 堆栈 区别 
+队列 栈 区别 
+双亲 委派 模型 
+说 一下 类 加载 执行 过程 
+判断 对象 是否 回收 
+Java   中 引用 类型 
+说 一下   JVM   垃圾 回收 算法 
+说 一下   JVM   垃圾 回收 器 
+详细 介绍 一下   CMS   垃圾 回收 器 
+新生代 垃圾 回收 器 老生 代 垃圾 回收 器 区别 
+简述 分代 垃圾 回收 器是 工作 
+说 一下   JVM   调优 工具 
+常用   JVM   调优 参数 
+

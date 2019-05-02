@@ -1,0 +1,209 @@
+﻿JDK 和 JRE 有什么区别？
+== 和 equals 的区别是什么？
+两个对象的 hashCode()相同，则 equals()也一定为 true，对吗？
+final 在 Java 中有什么作用？
+Java 中的 Math.round(-1.5) 等于多少？
+String 属于基础的数据类型吗？
+Java 中操作字符串都有哪些类？它们之间有什么区别？
+String str="i"与 String str=new String(“i”)一样吗？
+如何将字符串反转？
+String 类的常用方法都有那些？
+抽象类必须要有抽象方法吗？
+普通类和抽象类有哪些区别？
+抽象类能使用 final 修饰吗？
+接口和抽象类有什么区别？
+Java 中 IO 流分为几种？
+BIO、NIO、AIO 有什么区别？
+Files的常用方法都有哪些？
+Java 容器都有哪些？
+Collection 和 Collections 有什么区别？
+List、Set、Map 之间的区别是什么？
+HashMap 和 Hashtable 有什么区别？
+如何决定使用 HashMap 还是 TreeMap？
+说一下 HashMap 的实现原理？
+说一下 HashSet 的实现原理？
+ArrayList 和 LinkedList 的区别是什么？
+如何实现数组和 List 之间的转换？
+ArrayList 和 Vector 的区别是什么？
+Array 和 ArrayList 有何区别？
+在 Queue 中 poll()和 remove()有什么区别？
+哪些集合类是线程安全的？
+迭代器 Iterator 是什么？
+Iterator 怎么使用？有什么特点？
+Iterator 和 ListIterator 有什么区别？
+怎么确保一个集合不能被修改？
+并行和并发有什么区别？
+线程和进程的区别？
+守护线程是什么？
+创建线程有哪几种方式？
+说一下 runnable 和 callable 有什么区别？
+线程有哪些状态？
+sleep() 和 wait() 有什么区别？
+notify()和 notifyAll()有什么区别？
+线程的 run()和 start()有什么区别？
+创建线程池有哪几种方式？
+线程池都有哪些状态？
+线程池中 submit()和 execute()方法有什么区别？
+在 Java 程序中怎么保证多线程的运行安全？
+多线程锁的升级原理是什么？
+什么是死锁？
+怎么防止死锁？
+ThreadLocal 是什么？有哪些使用场景？
+说一下 Synchronized 底层实现原理？
+Synchronized 和 volatile 的区别是什么？
+Synchronized 和 Lock 有什么区别？
+Synchronized 和 ReentrantLock 区别是什么？
+说一下 Atomic 的原理？
+什么是反射？
+什么是 Java 序列化？什么情况下需要序列化？
+动态代理是什么？有哪些应用？
+怎么实现动态代理？
+为什么要使用克隆？
+如何实现对象克隆？
+深拷贝和浅拷贝区别是什么？
+JSP 和 servlet 有什么区别？
+JSP 有哪些内置对象？作用分别是什么？
+说一下 JSP 的 4 种作用域？
+Session 和 Cookie 有什么区别？
+说一下 Session 的工作原理？
+如果客户端禁止 Cookie 能实现 Session 还能用吗？
+Spring MVC 和 Struts 的区别是什么？
+如何避免 SQL 注入？
+什么是 XSS 攻击，如何避免？
+什么是 CSRF 攻击，如何避免？
+throw 和 throws 的区别？
+final、finally、finalize 有什么区别？
+try-catch-finally 中哪个部分可以省略？
+try-catch-finally 中，如果 catch 中 return 了，finally 还会执行吗？
+常见的异常类有哪些？
+HTTP 响应码 301 和 302 代表的是什么？有什么区别？
+forward 和 redirect 的区别？
+简述 TCP 和 UDP 的区别？
+TCP 为什么要三次握手，两次不行吗？为什么？
+说一下 TCP 粘包是怎么产生的？
+OSI 的七层模型都有哪些？
+Get和 Post 请求有哪些区别？
+如何实现跨域？
+说一下 JSONP 实现原理？
+说一下你熟悉的设计模式？
+简单工厂和抽象工厂有什么区别？
+为什么要使用 Spring？
+解释一下什么是 AOP？
+解释一下什么是 IOC？
+Spring 有哪些主要模块？
+Spring 常用的注入方式有哪些？
+Spring 中的 Bean 是线程安全的吗？
+Spring 支持几种 Bean 的作用域？
+Spring 自动装配 Bean 有哪些方式？
+Spring 事务实现方式有哪些？
+说一下 Spring 的事务隔离？
+说一下 Spring MVC 运行流程？
+Spring MVC 有哪些组件？
+@RequestMapping 的作用是什么？
+@Autowired 的作用是什么？
+什么是 Spring Boot？
+为什么要用 Spring Boot？
+Spring Boot 核心配置文件是什么？
+Spring Boot 配置文件有哪几种类型？它们有什么区别？
+Spring Boot 有哪些方式可以实现热部署？
+JPA 和 Hibernate 有什么区别？
+什么是 Spring Cloud？
+Spring Cloud 断路器的作用是什么？
+Spring Cloud 的核心组件有哪些？
+为什么要使用 Hibernate？
+什么是 ORM 框架？
+Hibernate 中如何在控制台查看打印的 SQL 语句？
+Hibernate 有几种查询方式？
+Hibernate 实体类可以被定义为 final 吗？
+在 Hibernate 中使用 Integer 和 int 做映射有什么区别？
+Hibernate 是如何工作的？
+get()和 load()的区别？
+说一下 Hibernate 的缓存机制？
+Hibernate 对象有哪些状态？
+在 Hibernate 中 getCurrentSession 和 openSession 的区别是什么？
+Hibernate 实体类必须要有无参构造函数吗？为什么？
+Mybatis 中 #{}和 ${}的区别是什么？
+Mybatis 有几种分页方式？
+RowBounds 是一次性查询全部结果吗？为什么？
+Mybatis 逻辑分页和物理分页的区别是什么？
+Mybatis 是否支持延迟加载？延迟加载的原理是什么？
+说一下 Mybatis 的一级缓存和二级缓存？
+Mybatis 和 Hibernate 的区别有哪些？
+Mybatis 有哪些执行器（Executor）？
+Mybatis 分页插件的实现原理是什么？
+Mybatis 如何编写一个自定义插件？
+RabbitMQ 的使用场景有哪些？
+RabbitMQ 有哪些重要的角色？
+RabbitMQ 有哪些重要的组件？
+RabbitMQ 中 VHost 的作用是什么？
+RabbitMQ 的消息是怎么发送的？
+RabbitMQ 怎么保证消息的稳定性？
+RabbitMQ 怎么避免消息丢失？
+要保证消息持久化成功的条件有哪些？
+RabbitMQ 持久化有什么特点？
+RabbitMQ 有几种广播类型？
+RabbitMQ 怎么实现延迟消息队列？
+RabbitMQ 集群有什么用？
+RabbitMQ 节点的类型有哪些？
+RabbitMQ 集群搭建需要注意哪些问题？
+RabbitMQ 每个节点是其他节点的完整拷贝吗？为什么？
+RabbitMQ 集群中唯一一个磁盘节点崩溃了会发生什么情况？
+RabbitMQ 对集群节点停止顺序有要求吗？
+Kafka 可以脱离 ZooKeeper 单独使用吗？为什么？
+Kafka 有几种数据保留的策略？
+Kafka 同时设置了 7 天和 10G 清除数据，到第五天的时候消息达到了 10G，这个时候 Kafka 将如何处理？
+什么情况会导致 Kafka 运行变慢？
+使用 Kafka 集群需要注意什么？
+ZooKeeper 是什么？
+ZooKeeper 都有哪些功能？
+ZooKeeper 有几种部署模式？
+ZooKeeper 怎么保证主从节点的状态同步？
+集群中为什么要有主节点？
+集群中有 3 台服务器，其中一个节点宕机，这个时候 ZooKeeper 还可以使用吗？
+说一下 ZooKeeper  的通知机制？
+数据库的三范式是什么？
+一张自增表里面总共有 7 条数据，删除了最后 2 条数据，重启 MySQL 数据库，又插入了一条数据，此时 ID 是几？
+如何获取当前数据库版本？
+说一下 ACID 是什么？
+Char 和 VarChar 的区别是什么？
+Float 和 Double 的区别是什么？
+MySQL 的内连接、左连接、右连接有什么区别？
+MySQL索引是怎么实现的？
+怎么验证 MySQL的索引是否满足需求？
+说一下数据库的事务隔离？
+说一下 MySQL常用的引擎？
+说一下 MySQL的行锁和表锁？
+说一下乐观锁和悲观锁？
+MySQL问题排查都有哪些手段？
+如何做 MySQL的性能优化？
+Redis 是什么？都有哪些使用场景？
+Redis 有哪些功能？
+Redis 和 MemeCache 有什么区别？
+Redis 为什么是单线程的？
+什么是缓存穿透？怎么解决？
+Redis 支持的数据类型有哪些？
+Redis 支持的 Java 客户端都有哪些？
+Jedis 和 Redisson 有哪些区别？
+怎么保证缓存和数据库数据的一致性？
+Redis 持久化有几种方式？
+Redis 怎么实现分布式锁？
+Redis 分布式锁有什么缺陷？
+Redis 如何做内存优化？
+Redis 淘汰策略有哪些？
+Redis 常见的性能问题有哪些？该如何解决？
+说一下 JVM 的主要组成部分？及其作用？
+说一下 JVM 运行时数据区？
+说一下堆栈的区别？
+队列和栈是什么？有什么区别？
+什么是双亲委派模型？
+说一下类加载的执行过程？
+怎么判断对象是否可以被回收？
+Java 中都有哪些引用类型？
+说一下 JVM 有哪些垃圾回收算法？
+说一下 JVM 有哪些垃圾回收器？
+详细介绍一下 CMS 垃圾回收器？
+新生代垃圾回收器和老生代垃圾回收器都有哪些？有什么区别？
+简述分代垃圾回收器是怎么工作的？
+说一下 JVM 调优的工具？
+常用的 JVM 调优的参数都有哪些？
+
